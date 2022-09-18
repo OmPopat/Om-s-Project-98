@@ -1,0 +1,54 @@
+#start-btn
+{
+    width: 40%;
+    background-color: darksalmon;
+
+} 
+#camera
+{
+    background-color: aqua;
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+
+#container {
+    background-image: url("download (1).jfif");
+}
+
+body {
+    background-color: lemonchiffon;
+}
+
+h1 {
+    color: indigo;
+}
+
+h3 {
+    color: rebeccapurple;
+}
+
+#text_box {
+    background-color:  pink;
+}
+
+
+label {
+    color: red;
+}
+
+#start {
+    background-color: honeydew;
+    font-size: medium;
+    font-family: initial;
+}
+
